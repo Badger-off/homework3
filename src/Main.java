@@ -10,11 +10,11 @@ public class Main {
             System.out.println("Если возраст человека равен " + age + ", он не достиг совершеннолетия, нужно немного подождать");
         }
         // задача 2
-        byte temerature = 8;
-        if (temerature > 5) {
-            System.out.println("На улице " + temerature + " градусов, можно идти без шапки");
+        byte temperature = 8;
+        if (temperature > 5) {
+            System.out.println("На улице " + temperature + " градусов, можно идти без шапки");
         } else {
-            System.out.println("На улице " + temerature + " градусов, нужно надеть шапку");
+            System.out.println("На улице " + temperature + " градусов, нужно надеть шапку");
         }
         // задача 3
         short speed = 61;
